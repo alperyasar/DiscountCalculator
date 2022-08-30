@@ -12,7 +12,7 @@
  6. The percentage based discounts do not apply on phones.
  7. A user can get only one of the percentage based discounts on a bill.
 
-![](http://url/to/img.png](https://github.com/alperyasar/DiscountCalculator/blob/main/20220830_181201.jpg)
+![Simple Uml](http://url/to/img.png](https://github.com/alperyasar/DiscountCalculator/blob/main/20220830_181201.jpg)
 
 ## Product
  Create product by type name and price.
