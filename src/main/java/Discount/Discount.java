@@ -1,3 +1,7 @@
+/**
+ * @author Alper Yaşar
+ * Calculation Discount Project
+ */
 package Discount;
 
 import java.io.*;
